@@ -6,6 +6,13 @@
 
 ---
 
+# 🗺️ Quick guide
+
+1. If you are at this repo right now, click on the `Program_releases` section.
+
+
+---
+
 **Created by**: @Leon Hodžić
 
 **Released**: 15.12.2025.
