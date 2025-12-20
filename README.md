@@ -27,7 +27,7 @@ All the remaining guide is in script, enjoy, have fun and happy coding! ✨🚀
 
 ---
 
-#🤝 Credits: 
+# 🤝 Credits: 
 
 **Created by**: @Leon Hodžić
 
