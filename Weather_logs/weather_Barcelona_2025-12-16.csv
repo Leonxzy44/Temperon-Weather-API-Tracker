@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Barcelona,2025-12-09,Tuesday,16.4,12.0,13.8,61.5,53.6,56.8,0.0,64,11.9,Sunny
+Barcelona,2025-12-10,Wednesday,17.8,12.2,14.4,64.0,54.0,57.9,0.0,57,14.4,Sunny
+Barcelona,2025-12-11,Thursday,15.7,11.6,13.3,60.3,52.9,55.9,0.0,73,9.7,Sunny
+Barcelona,2025-12-12,Friday,15.1,11.6,13.1,59.2,52.9,55.6,0.0,67,7.9,Sunny
+Barcelona,2025-12-13,Saturday,15.5,12.5,13.6,59.9,54.5,56.5,0.0,72,13.3,Cloudy
+Barcelona,2025-12-14,Sunday,14.0,10.7,12.3,57.2,51.3,54.1,0.0,77,14.8,Overcast
+Barcelona,2025-12-15,Monday,16.0,12.9,14.0,60.8,55.2,57.2,10.8,81,15.1,Light rain shower

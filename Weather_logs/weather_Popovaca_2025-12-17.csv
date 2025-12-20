@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Popovaca,2025-12-10,Wednesday,13.2,6.7,9.3,55.8,44.1,48.7,0.0,77,4.3,Overcast
+Popovaca,2025-12-11,Thursday,14.5,7.7,10.1,58.1,45.9,50.2,0.0,69,5.4,Sunny
+Popovaca,2025-12-12,Friday,14.1,7.2,9.7,57.4,45.0,49.5,0.0,72,7.9,Sunny
+Popovaca,2025-12-13,Saturday,13.7,6.6,9.3,56.7,43.9,48.7,0.0,68,7.9,Partly cloudy
+Popovaca,2025-12-14,Sunday,12.6,6.1,8.4,54.7,43.0,47.1,0.0,60,5.8,Sunny
+Popovaca,2025-12-15,Monday,11.9,4.6,7.6,53.4,40.3,45.7,0.0,54,7.9,Sunny
+Popovaca,2025-12-16,Tuesday,11.6,6.3,8.0,52.9,43.3,46.4,0.0,57,7.2,Overcast

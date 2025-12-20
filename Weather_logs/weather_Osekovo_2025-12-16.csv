@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Osekovo,2025-12-09,Tuesday,11.6,4.9,7.4,52.9,40.8,45.3,0.0,84,5.8,Sunny
+Osekovo,2025-12-10,Wednesday,11.7,5.9,7.8,53.1,42.6,46.0,0.0,79,6.1,Sunny
+Osekovo,2025-12-11,Thursday,10.3,4.1,6.4,50.5,39.4,43.5,0.0,86,5.0,Sunny
+Osekovo,2025-12-12,Friday,10.1,4.0,6.3,50.2,39.2,43.3,0.0,87,5.0,Overcast
+Osekovo,2025-12-13,Saturday,8.0,2.7,4.8,46.4,36.9,40.6,0.0,88,2.9,Mist
+Osekovo,2025-12-14,Sunday,8.0,1.8,4.1,46.4,35.2,39.4,0.0,85,3.6,Partly cloudy
+Osekovo,2025-12-15,Monday,8.4,0.3,3.6,47.1,32.5,38.5,0.0,75,7.2,Sunny

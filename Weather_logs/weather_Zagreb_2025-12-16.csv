@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Zagreb,2025-12-09,Tuesday,10.7,4.9,7.1,51.3,40.8,44.8,0.0,84,4.7,Sunny
+Zagreb,2025-12-10,Wednesday,10.8,5.6,7.4,51.4,42.1,45.3,0.0,80,6.1,Overcast
+Zagreb,2025-12-11,Thursday,10.3,4.6,6.8,50.5,40.3,44.2,0.0,84,2.9,Sunny
+Zagreb,2025-12-12,Friday,10.0,4.6,6.6,50.0,40.3,43.9,0.0,84,3.6,Overcast
+Zagreb,2025-12-13,Saturday,8.2,3.6,5.3,46.8,38.5,41.5,0.0,85,2.9,Overcast
+Zagreb,2025-12-14,Sunday,8.0,2.4,4.5,46.4,36.3,40.1,0.0,81,3.2,Partly cloudy
+Zagreb,2025-12-15,Monday,7.6,1.2,3.8,45.7,34.2,38.8,0.0,74,4.3,Sunny

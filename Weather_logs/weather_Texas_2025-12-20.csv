@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Texas,2025-12-13,Saturday,17.4,16.2,17.0,63.3,61.2,62.6,0.0,96,14.8,Fog
+Texas,2025-12-14,Sunday,17.7,9.1,13.9,63.9,48.4,57.0,3.1,88,35.3,Light rain shower
+Texas,2025-12-15,Monday,8.7,3.4,6.6,47.7,38.1,43.9,0.0,56,27.0,Partly cloudy
+Texas,2025-12-16,Tuesday,17.1,10.1,13.8,62.8,50.2,56.8,0.0,80,17.3,Overcast
+Texas,2025-12-17,Wednesday,18.0,17.3,17.6,64.4,63.1,63.7,12.2,95,17.6,Moderate or heavy rain with thunder
+Texas,2025-12-18,Thursday,21.2,16.9,19.1,70.2,62.4,66.4,5.6,92,25.9,Mist
+Texas,2025-12-19,Friday,17.6,13.2,15.3,63.7,55.8,59.5,0.0,66,29.2,Partly cloudy

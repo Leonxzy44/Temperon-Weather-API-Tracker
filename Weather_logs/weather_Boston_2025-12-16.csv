@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Boston,2025-12-09,Tuesday,-0.5,-8.7,-4.7,31.1,16.3,23.5,0.0,62,18.0,Cloudy
+Boston,2025-12-10,Wednesday,7.1,-1.8,2.6,44.8,28.8,36.7,10.2,89,28.4,Moderate rain at times
+Boston,2025-12-11,Thursday,3.3,-4.6,-0.4,37.9,23.7,31.3,3.3,72,30.2,Overcast
+Boston,2025-12-12,Friday,1.4,-5.5,-2.4,34.5,22.1,27.7,0.0,62,28.4,Sunny
+Boston,2025-12-13,Saturday,1.2,-4.5,-1.9,34.2,23.9,28.6,0.0,76,17.6,Overcast
+Boston,2025-12-14,Sunday,0.7,-4.2,-1.1,33.3,24.4,30.0,0.0,74,20.9,Overcast
+Boston,2025-12-15,Monday,-1.4,-8.0,-4.7,29.5,17.6,23.5,0.0,63,26.3,Partly cloudy

@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+London,2025-12-09,Tuesday,13.5,12.1,12.8,56.3,53.8,55.0,2.9,83,29.2,Light drizzle
+London,2025-12-10,Wednesday,12.1,7.9,10.3,53.8,46.2,50.5,0.0,83,17.6,Partly cloudy
+London,2025-12-11,Thursday,11.1,7.9,9.0,52.0,46.2,48.2,0.0,87,15.5,Partly cloudy
+London,2025-12-12,Friday,11.3,7.5,9.4,52.3,45.5,48.9,0.4,87,13.7,Light drizzle
+London,2025-12-13,Saturday,9.1,5.9,7.2,48.4,42.6,45.0,0.0,78,10.4,Sunny
+London,2025-12-14,Sunday,10.1,7.3,8.5,50.2,45.1,47.3,0.0,84,21.6,Partly cloudy
+London,2025-12-15,Monday,11.1,10.0,10.4,52.0,50.0,50.7,0.0,83,23.4,Patchy rain possible

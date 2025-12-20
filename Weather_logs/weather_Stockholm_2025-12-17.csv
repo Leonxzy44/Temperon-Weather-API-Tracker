@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Stockholm,2025-12-10,Wednesday,10.2,4.0,6.9,50.4,39.2,44.4,5.9,84,29.9,Light rain
+Stockholm,2025-12-11,Thursday,7.9,5.6,7.4,46.2,42.1,45.3,6.2,85,21.6,Light rain shower
+Stockholm,2025-12-12,Friday,4.0,0.6,1.9,39.2,33.1,35.4,0.2,79,13.3,Overcast
+Stockholm,2025-12-13,Saturday,5.0,0.8,2.9,41.0,33.4,37.2,4.7,89,21.2,Moderate snow
+Stockholm,2025-12-14,Sunday,7.5,3.5,5.4,45.5,38.3,41.7,0.1,90,18.7,Patchy rain possible
+Stockholm,2025-12-15,Monday,8.1,6.5,7.4,46.6,43.7,45.3,1.1,84,20.2,Light drizzle
+Stockholm,2025-12-16,Tuesday,7.3,3.7,4.9,45.1,38.7,40.8,0.0,92,13.7,Mist
