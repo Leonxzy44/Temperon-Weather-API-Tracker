@@ -1,0 +1,8 @@
+﻿City,Date,Day,Max Temp C,Min Temp C,Avg Temp C,Max Temp F,Min Temp F,Avg Temp F,Total Precip mm,Avg Humidity %,Max Wind kph,Condition
+Patagonia,2025-12-22,Monday,33.6,22.5,27.0,92.5,72.5,80.6,1.0,73,12.2,Fog
+Patagonia,2025-12-23,Tuesday,34.0,21.7,26.7,93.2,71.1,80.1,0.9,73,10.4,Patchy rain possible
+Patagonia,2025-12-24,Wednesday,34.2,22.0,26.8,93.6,71.6,80.2,3.1,75,10.8,Fog
+Patagonia,2025-12-25,Thursday,23.1,21.5,22.3,73.6,70.7,72.1,16.1,99,7.6,Moderate or heavy rain shower
+Patagonia,2025-12-26,Friday,21.7,19.9,20.9,71.1,67.8,69.6,26.1,100,5.0,Light rain shower
+Patagonia,2025-12-27,Saturday,24.8,20.2,21.3,76.6,68.4,70.3,5.6,97,5.0,Patchy light rain
+Patagonia,2025-12-28,Sunday,25.0,20.1,21.7,77.0,68.2,71.1,0.2,95,6.1,Fog
